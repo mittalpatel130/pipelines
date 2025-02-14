@@ -28,6 +28,11 @@ redis
 sqlmodel
 chromadb
 psycopg2-binary
+langchain
+langchain-community
+langchain-openai
+sqlalchemy
+pyodbc
 
 # Observability
 langfuse
